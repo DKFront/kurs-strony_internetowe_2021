@@ -1,0 +1,59 @@
+#obrazek {
+  width: 300px;
+  height: 300px;
+  background: url('https://upload.wikimedia.org/wikipedia/commons/3/38/Jan_Matejko%2C_Bitwa_pod_Grunwaldem.jpg');
+  background-position: center;
+  background-size: cover;
+}
+
+#blackbackground300xheight400witdh {
+  background-color: black;
+  height: 300px;
+  width: 400px;
+}
+
+#blackbackground100xheight200witdh {
+  background-color: black;
+  height: 100px;
+  width: 200px;
+}
+
+#greenbackground100xheight200witdh {
+  background-color: green;
+  height: 100px;
+  width: 200px;
+}
+
+ul {
+
+list-style-type: none;
+color: red;
+font-size: 30px;
+font-family: Times, serif;
+
+}
+
+ul li {
+
+background: green;
+
+}
+
+ol {
+
+background-color: yellow;
+color: green;
+font-size: 30px;
+font-family: Times, serif;
+
+}
+
+table {
+  background-color: black;
+  color: white;
+}
+
+.pogrubionytekst {
+  font-weight: bolder;
+
+}
