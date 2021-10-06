@@ -4,7 +4,6 @@
 By [@DKFront](https://twitter.com/avekovi) at [BIELAK-SYTEMY](https:/bielak-systemy.pl/)
 
 ![last commit](https://img.shields.io/github/last-commit/dkfront/kurs-strony_internetowe_2021)
-[![build by developers](https://img.shields.io/badge/build_by-Developers-blue)](https://breatheco.de)
 [![build by developers](https://img.shields.io/twitter/follow/avekovi?style=social&logo=twitter)](https://twitter.com/avekovi)
 
 
