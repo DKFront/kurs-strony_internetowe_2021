@@ -17,7 +17,7 @@ A dokładnie:
     <li>Podstawy struktury języków kodowania stron,</li>
     <li>Jak pisać poprawnie semantyczną stronę,</li>
     <li>Jak stworzyć nowoczesną i responsywną witrynę,</li>
-    <li>Tworzyć proste skrypty, które uinteraktywnią stronę,</li>
+    <li>Tworzyć proste skrypty, które zwiększą interaktywność strony,</li>
     <li>Jak korzystać z systemu kontroli wersji,</li>
     <li>Tworzenie szablonów WordPress,</li>
     <li>Publikowanie strony na WordPress.</li>
