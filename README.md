@@ -7,6 +7,10 @@ By [@DKFront](https://twitter.com/avekovi) at [BIELAK-SYTEMY](https:/bielak-syst
 [![build by developers](https://img.shields.io/twitter/follow/avekovi?style=social&logo=twitter)](https://twitter.com/avekovi)
 
 
+## Ile trwa ten kurs?
+
+Kurs zaplanowany jest na 84 godziny, w tym 20 godzin na zajęcia teoretyczne i 64 godziny na zajęcia praktyczne, podczas których będziesz budować swoją pierwszą stronę na poziomie komercyjnym.
+
 ## Czego nauczysz się w tym kursie?
 
 Ten kurs poprowadzi Cię od samego początku, ucząc jak tworzyć strony internetowe na poziomie komercyjnym. Kurs wprowadzi w nowoczesne i prawidłowe praktyki, dzięki którym strona nie tylko będzie ładna wizualnie, ale dobrze interpretowana przez najpopularniejsze przeglądarki.
